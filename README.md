@@ -14,6 +14,8 @@
 
 # Beispiel:
 `POST /itembyid`: Erstellen eine Elemente in der Shopping Liste 
+
+`POST /itembyid/{itemdId}`: Erstellen ein einzelnes Element
 **Parameter**: `itemId` - Einzigartige Id des Elements
 
 ## LÖSCHEN
@@ -22,7 +24,7 @@
 # Beispiel:
 `DELETE /itembyid`: Entfernt eine Elemente in der Shopping Liste
 
-`DELETE /itembyid/{itemId}`: Entfernt eine Elemente in der Shopping Liste
+`DELETE /itembyid/{itemId}`: Entfernt ein einzelnes Elemente 
 **Parameter**: `itemId` - Einzigartige Id des Elements
 
 
