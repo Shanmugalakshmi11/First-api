@@ -29,5 +29,5 @@
 
 # Beispiel:
 # Aktualisiert shopping Liste. 
-`PUT /itembyid/data`: Aktulisiert alle Elemente in der Shopping Liste
+`PUT /allitems/data`: Aktulisiert alle Elemente in der Shopping Liste
 
